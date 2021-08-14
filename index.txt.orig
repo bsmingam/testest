@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <head>
   <base href="https://www.w3schools.com/" target="_blank">
 </head>
@@ -6,3 +7,8 @@
 <img src="images/stickman.gif" width="24" height="39" alt="Stickman">
 <a href="tags/tag_base.asp">HTML base Tag</a>
 </body>
+=======
+TEst para nerge
+
+MErge 
+>>>>>>> 7e6d39e9e8cba1d789374eaa850f534fcabba907
